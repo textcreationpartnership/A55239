@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem occasion'd by the happy discovery of the horrid and barbarous conspiracy to assassinate His Most Sacred Majesty and to incourage an invasion from France</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55239</idno>
+            <idno type="STC">Wing P2680</idno>
+            <idno type="STC">ESTC R28445</idno>
+            <idno type="EEBO-CITATION">10594953</idno>
+            <idno type="OCLC">ocm 10594953</idno>
+            <idno type="VID">45335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem occasion'd by the happy discovery of the horrid and barbarous conspiracy to assassinate His Most Sacred Majesty and to incourage an invasion from France</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by Elizabeth Whitlock,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Poetry.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:45335:1"/>
+            <head>A <hi>POEM</hi> Occaſion'd by the Happy Diſcovery of the Horrid and Barbarous Conſpiracy to Aſſaſſinate his moſt Sacred Majeſty, and to incourage an Invaſion from <hi>France.</hi>
+            </head>
+            <lg>
+               <l>NOW Bleſſings on you all, ye Powers above,</l>
+               <l>Ye flaming Miniſters of mighty Love;</l>
+               <l>You whoſe untainted Loyalty withſtood</l>
+               <l>The fierceſt efforts of th' old Plotting Brood;</l>
+               <l>Whoſe Hoſt embatled under <hi>Michael</hi>'s Care,</l>
+               <l>Drove from Heavens fluid Plains the firſt rebellious War.</l>
+               <l>Once more your guarding Influence we own,</l>
+               <l>So oft, and now ſo critically ſhown.</l>
+               <l>And oh! inſpire my Song, your Charge I ſing,</l>
+               <l>Your darling Charge, to ſhield a Pious King.</l>
+               <l>Say then how partial Heaven hath been of late,</l>
+               <l>In ſhowring Bleſſings on our ſinking State?</l>
+               <l>Did Treachery e'er ſo juſtly claim its aid,</l>
+               <l>Since that, by which both Devils and Hell were made?</l>
+            </lg>
+            <lg>
+               <l>Scarce oftner to the choſen Seed ye went,</l>
+               <l>With ſuch kind merciful Commiſſions ſent,</l>
+               <l>They found the Father more in Chaſtiſement.</l>
+               <l>Midſt <hi>Aegypt</hi>'s Plagues rais'd by the powerful Rod,</l>
+               <l>And all the great Artillery of God;</l>
+               <l>
+                  <hi>Goſhen</hi> enjoy'd its light and health, was free</l>
+               <l>From the dire Plagues, but mourn'd in Slavery.</l>
+            </lg>
+            <lg>
+               <l>More bleſt our Iſle, which fruitful Peace hath choſe</l>
+               <l>The ſafe Retirement of her long repoſe:</l>
+               <l>Alarm'd by diſtant dangers only, ſhe</l>
+               <l>Sits ſafe i'th' Conſecrated Circle of her Sea.</l>
+            </lg>
+            <lg>
+               <l>Through Deſarts waſt great <hi>Joſhua</hi>'s Journey lay,</l>
+               <l>Ye march't i'th' Front, and made unnatural day;</l>
+               <l>A ſecond Darkneſs between <hi>Aegypt</hi>'s Hoſt</l>
+               <l>And his ye ſpread, in which all tracks were loſt.</l>
+            </lg>
+            <lg>
+               <l>Oft for Great <hi>William</hi> you perform the ſame,</l>
+               <l>And guard him through the dangerous Path<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Fame;</l>
+               <l>Where few dare follow, and where none can aid,</l>
+               <l>But you, that are of liquid texture made,</l>
+               <l>As Air invulnerable.</l>
+               <l>And ſcarcely You could the ſwift Globe divert,</l>
+               <l>So truly level'd at his noble Heart:</l>
+               <l>For well ye knew with what impetuous force</l>
+               <l>The miſſive Death moves in its rapid courſe;</l>
+               <pb n="2" facs="tcp:45335:2"/>
+               <l>Since when it drove you to a forc'd retreat,</l>
+               <l>And in God's Cauſe ye endur'd a ſhort defeat;</l>
+               <l>But ye did ward it, and the tender Blow</l>
+               <l>Made the nice Miracle much greater ſhow;</l>
+               <l>The Azure ſilk a nobler colour found,</l>
+               <l>The deep rich Purple of the Royal Wound.</l>
+               <l>Unarm'd that day, like Truth, the Monarch ſtood,</l>
+               <l>His Army pale, He red with Rage and Blood,</l>
+               <l>Quick through his Troops, as their own Fears, he paſt,</l>
+               <l>And turn'd thoſe Fears to generous Rage at laſt.</l>
+            </lg>
+            <lg>
+               <l>Ye left not oftner your encreaſing Theme</l>
+               <l>Of <hi>Hallelujahs,</hi> even to ſuccour Him,</l>
+               <l>Who much for Valour, much for Troubles fam'd,</l>
+               <l>Long o'er the Jews, a murmuring People reign'd;</l>
+               <l>Though doubly he th' Almighty's Impreſs wore,</l>
+               <l>Good after his own Heart, and next to him in Power.</l>
+               <l>Nor great thoſe dangers which that Prince did run,</l>
+               <l>Since all <hi>Saul</hi>'s Plots however nicely ſpun,</l>
+               <l>Scap'd not the watchful Friendſhip of the Son:</l>
+               <l>That noble Son, who ſcorn'd a Ruffians name,</l>
+               <l>For his Sire's Crown, or his own future claim.</l>
+               <l>Yet ne'er did Treachery in <hi>Saul</hi>'s Breaſt appear,</l>
+               <l>Till Heaven had left it and all Hell was there:</l>
+               <l>But not even then would he by Proxy kill,</l>
+               <l>He boldly dar'd to act what he durſt will;</l>
+               <l>No meaner hand the pointed Javelin threw,</l>
+               <l>Than that which <hi>Saul</hi> himſelf at <hi>Gilboa</hi> ſlew.</l>
+            </lg>
+            <lg>
+               <l>Horrid indeed and new, that great intent,</l>
+               <l>Which once againſt our Senate-Houſe was meant;</l>
+               <l>Had not You timely interpos'd your aid,</l>
+               <l>What a wide <hi>Golgotha</hi> had then been made!</l>
+               <l>There Stones, Skulls, Rafters, mangled Limbs, would form</l>
+               <l>The dire ingredients of th' unnatural ſtorm.</l>
+               <l>Royal and Noble blood had mingled there,</l>
+               <l>And fall'n a diſmal ſhower through the dark wounded Air.</l>
+            </lg>
+            <lg>
+               <l>But then our Iſland fear'd no foreign Chain,</l>
+               <l>From riſing <hi>France,</hi> or from declining <hi>Spain.</hi>
+               </l>
+               <l>Now Hell improv'd hath rais'd our danger higher,</l>
+               <l>Freedom with its Derender muſt expire.</l>
+               <l>Freedom! by all the Sweets of thy dear Name,</l>
+               <l>By all thy Charms, ſtronger than thoſe of Fame,</l>
+               <l>Or Beauty, hear me ſwear; I'd chuſe to live</l>
+               <l>Obſcure, but bleſt with thy Prerogative,</l>
+               <l>Rather than ſuffer the grand Monarchs Fate,</l>
+               <l>And to become ſo Guilty, and ſo Great.</l>
+               <pb n="3" facs="tcp:45335:2"/>
+               <l>Like <hi>Hannibal,</hi> he on our Coaſt appears,</l>
+               <l>And who his Faith leſs than the Punick fears?</l>
+               <l>In whoſe Cauſe e'er the Conqueſt he had won,</l>
+               <l>The Tyrant had enſlav'd us in his own.</l>
+            </lg>
+            <lg>
+               <l>Degenerate Off-ſpring of a Nation free,</l>
+               <l>Tenacious of its ancient Liberty!</l>
+               <l>That could that noble Privilege betray,</l>
+               <l>Though the vaſt Bribe both <hi>Indies</hi> were to pay.</l>
+               <l>When impious <hi>Corah</hi> did of old rebel,</l>
+               <l>Alive the Wretch tranſlated was to Hell;</l>
+               <l>And <hi>Corah</hi>'s be their Fate,</l>
+               <l>And reeking in a murder'd Monarch's gore,</l>
+               <l>Could meet their Brother Cut-throats on our ſhore.</l>
+               <l>If her own Sons, poor <hi>Albion</hi> thus expoſe,</l>
+               <l>What would ſhe not have felt from foreign Foes?</l>
+               <l>Who can deſcribe their Miſeries, that at once</l>
+               <l>Muſt ſuffer under Jeſuits and Dragoons?</l>
+               <l>Thoſe would our Conſcience, theſe our Bodies ſway,</l>
+               <l>And even to ſigh, would be to diſobey.</l>
+               <l>The toiling Slave muſt all his gains disburſe</l>
+               <l>To the Prieſts tricks, or barbarous Souldiers force.</l>
+               <l>If any could from wretched <hi>Albion</hi> fly,</l>
+               <l>No Kingdom could afford him Liberty,</l>
+               <l>All <hi>Europe</hi> muſt ſubmit to the hard Slavery.</l>
+               <l>Mild was the Oppreſſion in the Conquering Reigns,</l>
+               <l>Of <hi>Romans, Saxons, Normans,</hi> or the <hi>Danes.</hi>
+               </l>
+               <l>Few Arts they knew deſtructive of Mankind,</l>
+               <l>By <hi>Rome,</hi> and <hi>France,</hi> and Hell of late refin'd.</l>
+               <l>What Blood had ſtain'd and ſwell'd the bluſhing <hi>Thames,</hi>
+               </l>
+               <l>Reflecting gloomily <hi>Auguſta</hi>'s Flames.</l>
+               <l>The brib'd Artillery too fierce Balls had ſent,</l>
+               <l>And glowing to aſſiſt the raging Element.</l>
+               <l>Thus had the great <hi>Emporium</hi> of our Iſle,</l>
+               <l>Flam'd for its Lord, a mighty Funeral Pile.</l>
+               <l>What Plague, and Fire, in two years had not done,</l>
+               <l>Had been perform'd now in two days alone.</l>
+               <l>Slow Deſolation, and a lingring Fate</l>
+               <l>Had ſurely ſeiz'd the diſtant parts, though late.</l>
+               <l>Rapes, Plunders, Contributions, then had been</l>
+               <l>Throughout the unhappy Iſle, one diſmal Scene.</l>
+               <l>So 'tis with Men in an acute Diſeaſe,</l>
+               <l>Whom token'd Plagues, or fiery Fevers ſeize;</l>
+               <l>Quick as their trembling Pulſe, or panting Breath,</l>
+               <l>Are the approaches then of ſudden Death.</l>
+               <l>But when Fate forms a tedious Blockade,</l>
+               <l>Its Hectick ſteps are by Conſumptions made:</l>
+               <pb n="4" facs="tcp:45335:3"/>
+               <l>The fleſhy Outworks by degrees conſume,</l>
+               <l>And Skeletons receive the Conquerour's doom.</l>
+            </lg>
+            <lg>
+               <l>Say next, what dread on your dim Foreheads ſate,</l>
+               <l>When ye beheld ſo near th' impending Fate.</l>
+               <l>In ſlow flat Notes ye mournful Anthems ſung,</l>
+               <l>Harmonious Grief dwelt on each trembling tongue.</l>
+               <l>Did ye not fear, as Angels can, for Him,</l>
+               <l>Whom Tyrants dread more than their Subjects them?</l>
+               <l>For him, who knows no fear, but whoſe Defence</l>
+               <l>In War is Valour, in Peace Innocence;</l>
+               <l>For him, whoſe ſhining Sword with conſtant Pains,</l>
+               <l>Cuts through the Gordian Knots of ſervile Chains:</l>
+               <l>Who's Great, to be more Good in Victory,</l>
+               <l>He Wounds to heal, and Conquers to ſet free.</l>
+               <l>Doubly his hand prevails, when arm'd in War,</l>
+               <l>In Peace, when lifted up in pious Prayer.</l>
+               <l>So <hi>Moſes</hi> from the Hill both Hoſts ſurvey'd</l>
+               <l>With the ſame warmth great <hi>Joſhua</hi> fought, he pray'd;</l>
+               <l>Freſh Courage from his Arm each Souldier took,</l>
+               <l>Faintneſs his Limbs, and Fear his heart forſook;</l>
+               <l>The Powers that in thoſe Chiefs divided lay,</l>
+               <l>United in our King, ſecure the glorious day.</l>
+               <l>So Juſt, ſo Good, ſo Brave, to him alone</l>
+               <l>All ſuch ſhall be compar'd, himſelf to none.</l>
+               <l>This know the Kings, whoſe trueſt Characters</l>
+               <l>Will be our generous Hero's in reverſe.</l>
+            </lg>
+            <lg>
+               <l>Let then Blaſphemous Epithets Proclaim,</l>
+               <l>The mighty Monarchs loud, but blaſted, Fame;</l>
+               <l>The <hi>Gallic</hi> Muſes Trophies raiſe in vain,</l>
+               <l>Falſe is th' Applauſe, their Numbers all prophane.</l>
+               <l>The ſubject will require true Poetry,</l>
+               <l>Where all the nauſeous Praiſe muſt Fiction be.</l>
+               <l>Extorted Gold th' Oppreſſor's Power doth raiſe,</l>
+               <l>That purchaſes his Conqueſts, and their Praiſe;</l>
+               <l>Let breathing ſtone expreſs the looks divine,</l>
+               <l>And <hi>Perſian</hi> Fires around the Marble ſhine:</l>
+               <l>If open War and noble dangers call,</l>
+               <l>Cold as his Statue fits the Original;</l>
+               <l>By other hands he gains mean Victories,</l>
+               <l>And only dares in Perſon Tyrannize.</l>
+               <l>Whilſt Mighty <hi>William</hi> in a juſter Cauſe,</l>
+               <l>His Conquering Sword with nobler Anger draws;</l>
+               <l>And dares the utmoſt Malice of his Foes,</l>
+               <l>In the wide Field his Rightful Claim t' oppoſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Publiſh'd by <hi>Elizabeth Whitlock</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+            <pb facs="tcp:45335:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
